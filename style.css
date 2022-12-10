@@ -1,0 +1,121 @@
+body{
+   
+background: #FFFFFF;
+margin: 0;
+font-family: 'Open Sans', sans-serif;
+    
+}
+
+
+
+.page{
+
+    width: 1024px;
+    margin: 0 auto 0; 
+
+}
+
+section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img-mulher{
+    margin-top: 64px;
+}
+
+h1{
+    font-family: 'Dosis', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #3F3D56;
+}
+h1 span{
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 700;  
+    color: #EE24FF;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+
+    color: #828282;
+
+    width: 540px;
+
+}
+
+p span{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 22px;
+    
+    color: #3F3D56;
+}
+.p1{
+    margin-bottom: 0;
+}
+.p2{
+    margin-top: 32px;
+    margin-bottom: 64px;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    gap: 42px;
+    list-style: none;
+
+    margin-top: 16px;
+    margin-bottom: 40px;
+
+}
+
+ul a{
+    text-decoration: none;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 22px;
+
+    color: #3F3D56;
+
+
+}
+
+.line{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    width: 391px;
+    height: 0px;
+    
+    border: 1px solid #ECEFF2;
+}
+
+.wave{
+    position: relative;
+    bottom: 0;
+}
