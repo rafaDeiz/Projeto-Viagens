@@ -105,6 +105,10 @@ ul a{
 
 }
 
+ul a:hover{
+    color: #68667c;
+}
+
 .line{
     display: flex;
     margin: auto;
